@@ -1,6 +1,7 @@
 # Including items you already have breaks the script
 # Simple item adder
 # Python 3.x
+# Written by master Astro260
 import urllib.request
 import base64
 import json
