@@ -7,8 +7,8 @@ import base64
 import json
 
 # Penguin information
-username = 'pyhax'
-password = 'haxyou'
+username = 'nicospa32'
+password = 'gianico32'
 # Items
 items = [413, 444]
 # The API
